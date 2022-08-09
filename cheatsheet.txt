@@ -1,4 +1,18 @@
-
+Pwd: tells the current directory
+Ls: lists the contents of the current directory
+Cd: moves back to the home (user) directory
+Cd (directory name): changes to specified directory
+Cd ..: changes to parent directory (changes to grandparent if extra . is added, and so on)
+Mkdir (directory name): creates a new directory
+Touch (file name): either creates a new file or updates the last modified date of existing file
+Rm (file name): permanently deletes file
+Rmdir: permanently deletes an empty directory
+Rm -r: permanently deletes a directory and its contents
+Open (file name): opens a file or directory
+Mv (file name) (directory name): moves specified file to specified directory
+Mv (file name) (new file name): renames file
+Cp (file name) (directory name): copies file to specified directory
+Clear: wipes clean the terminal window
 
 
 
