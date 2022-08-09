@@ -14,6 +14,11 @@ Mv (file name) (new file name): renames file
 Cp (file name) (directory name): copies file to specified directory
 Clear: wipes clean the terminal window
 
+.: specifies how far above the folders tree to navigate (1 - parent dir, 2 - grandparent, etc)
+-: indicates that the following character is a flag
+--: indicates that the following word is a flag
+Man (command): shows a manual about specified command and its flags
+
 
 
 
